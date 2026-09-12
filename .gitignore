@@ -1,0 +1,57 @@
+# C# / .NET
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.userprefs
+*.sln.iml
+*.suo
+.csproj.user
+.csproj.user.props
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache/options
+.vs/
+
+# Test Results
+TestResults/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# dotnet user-secrets
+.user-secrets/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# MonoGame specific
+bin/
+obj/
+*.xcodeproj/
+*.ipa
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
